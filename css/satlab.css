@@ -1,0 +1,8 @@
+@media (max-width: 415px){.disappearsmall {
+  display: none;
+  }}
+  
+/*figure out centering for images on mobile device. Classes are already embedded.
+      .center {
+    float: right;
+} */
