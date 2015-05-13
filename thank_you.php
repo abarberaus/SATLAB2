@@ -1,3 +1,5 @@
+<?php 
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -6,7 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="">
         <meta name="author" content="">
-        <title>Contact - Satellite Print Labs</title>
+        <title>Thank You - Satellite Print Labs</title>
         <!-- Bootstrap Core CSS -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <!-- Custom CSS -->
@@ -68,49 +70,13 @@
                 <div class="box">
                     <div class="col-lg-12">
                         <hr>
-                        <h2 class="intro-text text-center">Contact
-                        <strong>Satellite Print Lab</strong>
+                        <h2 class="intro-text text-center">Thank you for contacting
+                        <strong>Satellite Print Lab</strong>!
                         </h2>
+                        <p class="text-center">We'll get in touch with you ASAP!</p>
                         <hr>
                     </div>
-                    <div class="col-md-8">
-                        <p>If you'd like to reach out to us with questions, comments, or concerns, please fill out the from below. We will contact you as soon as we can!</p>
-                        <form action="email.php" method="post" role="form">
-                            <div class="row">
-                                <div class="form-group col-lg-4">
-                                    <label>Name</label>
-                                    <input type="text" class="form-control" name="name" required>
-                                </div>
-                                <div class="form-group col-lg-4">
-                                    <label>Email Address</label>
-                                    <input type="email" class="form-control" name="email" required>
-                                </div>
-                                <div class="form-group col-lg-4">
-                                    <label>Phone Number</label>
-                                    <input type="tel" class="form-control" name="phone">
-                                </div>
-                                <div class="clearfix"></div>
-                                <div class="form-group col-lg-12">
-                                    <label>Message</label>
-                                    <textarea class="form-control" rows="6" name="message"></textarea>
-                                </div>
-                                <div class="form-group col-lg-12">
-                                    <input type="hidden" name="save" value="contact">
-                                    <button type="submit" class="btn btn-default">Submit</button>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                    <div class="col-md-4">
-                        <p>Phone:
-                            <strong>512.887.8920</strong>
-                        </p>
-                        <p>Email:
-                            <strong><a href="mailto:info@satelliteprintlab.com" target="_blank">info@satelliteprintlab.com</a></strong>
-                        </p>
-                        <p>Address:<strong> Hecho en Austin, Texas</strong>
-                        </p>
-                    </div>
+                    
                     <div class="clearfix"></div>
                 </div>
             </div>
