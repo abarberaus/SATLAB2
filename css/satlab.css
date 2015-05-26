@@ -21,3 +21,15 @@
 	padding: 28px;
 
 }
+
+.my_box {
+  margin: 20px 0 40px 0;
+}
+
+@media (max-width: 770px) {
+  .my_footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+}
