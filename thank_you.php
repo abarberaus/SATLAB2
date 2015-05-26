@@ -70,12 +70,20 @@
             <div class="row">
                 <div class="box my_box">
                     <div class="col-lg-12">
+                        <br>
+                        <br>
+                        <br>
+                        <br>
                         <hr>
                         <h2 class="intro-text text-center">Thank you for contacting
                         <strong>Satellite Print Lab</strong>!
                         </h2>
                         <p class="text-center">We'll get in touch with you ASAP!</p>
                         <hr>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
                     </div>
                     
                     <div class="clearfix"></div>
