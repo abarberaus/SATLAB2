@@ -8,8 +8,7 @@ if(isset($_POST['submit'])){
     $subject = "Form submission";
     $message = $name . " " . " from " . $from . "." . " They have this phone number: " . $phone . ", and their message is this: " . $the_message;
 
-    $headers = "From:" . $from;
-    mail($to,$subject,$message,$headers);
+    mail($to,$subject,$message);
     header("Location: thank_you.php");
 
     // You can also use header('Location: thank_you.php'); to redirect to another page.
