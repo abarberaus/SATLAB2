@@ -9,7 +9,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="icon" type="image/png" href="img/logo_icon16.png">
-        <title>Thank You - Satellite Print Labs</title>
+        <title>Thank You - Satellite Design Lab</title>
         <!-- Bootstrap Core CSS -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <!-- Custom CSS -->
