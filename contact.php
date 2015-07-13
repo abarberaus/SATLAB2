@@ -46,7 +46,7 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav">
-                        <li>
+                                    <li>
                             <a href="index.html">Home</a>
                         </li>
                         <li>
@@ -57,6 +57,12 @@
                         </li>
                         <li>
                             <a href="banners.html">Full Banners</a>
+                        </li>
+                        <li>
+                            <a href="websites.html">Websites</a>
+                        </li>
+                        <li>
+                            <a href="apps.html">Apps</a>
                         </li>
                         <li>
                             <a style="padding: 28px;" href="https://www.facebook.com/satelliteprintlab" target="_blank"><img src="img/facebook.png"></a>
