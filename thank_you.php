@@ -9,12 +9,12 @@
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="icon" type="image/png" href="img/logo_icon16.png">
-        <title>Thank You - Satellite Design Lab</title>
+        <title>Thank You - Satellite Print Lab</title>
         <!-- Bootstrap Core CSS -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <!-- Custom CSS -->
-        <link href="css/business-casual.css" rel="stylesheet">
-        <link href="css/satlab.css" rel="stylesheet">
+        <link href="css/main.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
         <!-- Fonts -->
         <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
         <link href="http://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic" rel="stylesheet" type="text/css">
@@ -45,7 +45,7 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav">
-                                   <li>
+                       <li>
                             <a href="index.html">Home</a>
                         </li>
                         <li>
@@ -55,16 +55,19 @@
                             <a href="decals.html">Decals and Stickers</a>
                         </li>
                         <li>
-                            <a href="banners.html">Full Banners</a>
+                            <a href="banners.html">Banners</a>
                         </li>
                         <li>
                             <a href="websites.html">Websites</a>
                         </li>
                         <li>
-                            <a href="apps.html">Apps</a>
+                            <a href="contact.php">Contact</a>
                         </li>
                         <li>
-                            <a style="padding-top: 28px;" href="https://www.facebook.com/satelliteprintlab" target="_blank"><img src="img/facebook.png"></a>
+                            <a class="soc-icon" href="https://www.facebook.com/satelliteprintlab" target="_blank"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
+                        </li>
+                        <li>
+                            <a class="soc-icon" href="https://www.instagram.com/satelliteprintlab" target="_blank"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
                         </li>
                     </ul>
                 </div>
